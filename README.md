@@ -1,7 +1,7 @@
 <p align="center">
   <img src="/img/banner.png" alt="Header" />
 </p>
-<!-- <h1 align="center">Hi 👋, Saya Sukron</h1> -->
+
 <h3 align="center">Saya seorang Pengembang Perangkat Lunak yang berfokus pada Pemrograman Web.</h3>
 
 <p align="center">
@@ -50,25 +50,20 @@
 #### 🔧 Backend Stacks
 
 <p align="start">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,php,js" />
-  </a>
 </p>
 
 #### 🧱 Backend Frameworks
 
 <p align="start">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,codeigniter,nodejs" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=laravel,nodejs" />
 </p>
 
 #### 🎨 Frontend Frameworks
 
 <p align="start">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,vue" />
-  </a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" alt="CodeIgniter" width="40" height="40"/>
 </p>
 
 #### 🖌️ Tools Desain
@@ -85,5 +80,3 @@
 <p align="center">
   Terima kasih telah mengunjungi profil saya! Jangan lupa follow dan kasih ⭐️ ya kalau suka dengan project saya 😄
 </p>
-
-###
