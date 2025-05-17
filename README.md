@@ -1,4 +1,6 @@
-<img src="/img/header.png" alt="Header" style="width: 100%; display: block;" />
+<p align="center">
+  <img src="/img/header.png" alt="Header" />
+</p>
 <!-- <h1 align="center">Hi 👋, Saya Sukron</h1> -->
 <h3 align="center">Saya seorang Pengembang Perangkat Lunak yang berfokus pada Pemrograman Web.</h3>
 
