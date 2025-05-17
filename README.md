@@ -57,7 +57,7 @@
 
 #### 🧱 Backend Frameworks
 
-<p align="center">
+<p align="start">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,php,js" />
   </a>
