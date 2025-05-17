@@ -35,6 +35,12 @@
   <a href="https://id.pinterest.com/skrnagrh/picsart/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/pinterest.svg" alt="Pinterest" width="30" height="30"/>
   </a>
+  <a href="https://www.behance.net/sedotwcone" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" alt="Behance" width="30" height="30"/>
+  </a>
+  <a href="https://www.tiktok.com/@sedotwcone" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/3046/3046122.png" alt="TikTok" width="30" height="30"/>
+  </a>
 </p>
 
 ---
