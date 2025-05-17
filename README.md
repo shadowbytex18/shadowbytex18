@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, Saya Sukron</h1>
+![Header](/img/header.png)
+<!-- <h1 align="center">Hi 👋, Saya Sukron</h1> -->
 <h3 align="center">Saya seorang Pengembang Perangkat Lunak yang berfokus pada Pemrograman Web.</h3>
 
 <p align="center">
@@ -10,7 +11,7 @@
 ### 📊 GitHub Statistik
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Skrnagrh&theme=github" alt="Profile Summary"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Skrnagrh&theme=github_dark" alt="Profile Summary"/>
 </p>
 
 <p align="center">
@@ -37,9 +38,6 @@
   </a>
   <a href="https://www.behance.net/sedotwcone" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" alt="Behance" width="30" height="30"/>
-  </a>
-  <a href="https://www.tiktok.com/@sedotwcone" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/3046/3046122.png" alt="TikTok" width="30" height="30"/>
   </a>
 </p>
 
@@ -85,10 +83,6 @@
 <p align="center">
   Terima kasih telah mengunjungi profil saya! Jangan lupa follow dan kasih ⭐️ ya kalau suka dengan project saya 😄
 </p>
-
-###
-
-<img src="https://raw.githubusercontent.com/shadowbytex18/shadowbytex18/output/snake.svg" alt="Snake animation" />
 
 ###
 
