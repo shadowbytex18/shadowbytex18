@@ -85,3 +85,7 @@
 <p align="center">
   Terima kasih telah mengunjungi profil saya! Jangan lupa follow dan kasih ⭐️ ya kalau suka dengan project saya 😄
 </p>
+
+###
+
+<img src="https://raw.githubusercontent.com/shadowbytex18/shadowbytex18/output/snake.svg" alt="Snake animation" />
