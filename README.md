@@ -35,7 +35,7 @@
 ### 🎨 Portofolio Desain
 
 <p align="left">
-  <a href="https://id.pinterest.com/skrnagrh/picsart/" target="_blank">
+  <a href="https://id.pinterest.com/sedotwcone" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/pinterest.svg" alt="Pinterest" width="30" height="30"/>
   </a>
   <a href="https://www.behance.net/sedotwcone" target="_blank">
@@ -56,6 +56,17 @@
 </p>
 
 #### 🧱 Backend Frameworks
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,php,js" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,vue" />
+  </a>
+</p>
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" width="40" height="40"/>
