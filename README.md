@@ -1,4 +1,6 @@
-![Header](/img/header.png)
+<p align="center">
+  <img src="/img/banner.png" alt="Header" />
+</p>
 <!-- <h1 align="center">Hi 👋, Saya Sukron</h1> -->
 <h3 align="center">Saya seorang Pengembang Perangkat Lunak yang berfokus pada Pemrograman Web.</h3>
 
@@ -11,7 +13,7 @@
 ### 📊 GitHub Statistik
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Skrnagrh&theme=github_dark" alt="Profile Summary"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Skrnagrh&theme=algolia" alt="Profile Summary"/>
 </p>
 
 <p align="center">
